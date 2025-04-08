@@ -11,10 +11,10 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Schilling Research Group"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Malle Schilling, Ph.D."
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://schillingmr.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/schilling-rg" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
