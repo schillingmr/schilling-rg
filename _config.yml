@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "SRGlogo.jpg"
-  name             : "Quick Links"
+  name             : #"Quick Links"
   pronouns         : # example: "she/her"  
-  bio              : "Internal Use for Schilling Research Group"
+  bio              : "Internal use for SRG only"
   location         : "Earth"
-  employer         : "ASU"
+  employer         : #"ASU"
   uri              : # URL
-  email            : "malle.schilling@asu.edu" 
+  email            : #"malle.schilling@asu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
