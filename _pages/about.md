@@ -13,6 +13,4 @@ The purpose of this site is to serve as an internal resource for Schilling Resea
 
 Malle Schilling, Ph.D.
 
-malle.schilling@asu.edu
-
 **Click [here](https://calendar.app.google/APuQtegTkkTyiWSb6) to schedule a meeting with Malle**
