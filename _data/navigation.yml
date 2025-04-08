@@ -9,6 +9,8 @@
 
 main:
 
+  - title: "Onboarding"
+    url: /onboarding/
     
   - title: "Research Areas"
     url: /research-areas/
