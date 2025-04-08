@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-The purpose of this site is to serve as an internal resource for Schilling Research Group. Here you can find some required reading, recommended resources, and other useful links pertaining to the research group. 
+The purpose of this site is to serve as an internal resource for Schilling Research Group. 
+
+**Click here to schedule a meeting with Malle:** https://calendar.app.google/APuQtegTkkTyiWSb6
+
+**Research Group Lead**
+Malle Schilling, Ph.D.
+malle.schilling@asu.edu
