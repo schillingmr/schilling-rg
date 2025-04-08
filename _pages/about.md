@@ -12,5 +12,3 @@ The purpose of this site is to serve as an internal resource for Schilling Resea
 **Research Group Lead**
 
 Malle Schilling, Ph.D.
-
-**Click [here](https://calendar.app.google/APuQtegTkkTyiWSb6) to schedule a meeting with Malle**
