@@ -2,6 +2,8 @@
 title: "Citation Management"
 collection: portfolio
 ---
+Information about shared citation management in SRG
+
 There are many different citations managers to choose from but the one that will be leveraged by SRG is [Zotero](https://www.zotero.org/).
 
 Please make an account with Zotero to be added to the Schilling Research Group Library where you can find and upload references for general use and specific projects. 
