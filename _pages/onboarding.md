@@ -21,10 +21,10 @@ Use this page to locate what you should do to acquant yourself with Schilling Re
 3. Make sure your [CITI Training](https://researchcompliance.asu.edu/human-subjects/training/) is up-to-date. Complete it if it is not. 
 
 **To Do Every Term**
-1. [Schedule a recurring, weekly meeting with Malle](https://docs.google.com/spreadsheets/d/1KFBrteQqckF7IC3rk_RUXa8rSngNNDaQ7xxXtTxiuGc/edit?usp=sharing). 
+1. Schedule a recurring, weekly meeting with Malle. 
 2. Revisit and update IDP and Mentoring Plan as needed. 
 
 ## **For GRAs - To Do Every Term**
-1. [Schedule a recurring, weekly meeting with Malle](https://docs.google.com/spreadsheets/d/1KFBrteQqckF7IC3rk_RUXa8rSngNNDaQ7xxXtTxiuGc/edit?usp=sharing). 
-2. Review and complete an Expectations and Development Plan which will be tailored to each GRA.
+1. Schedule a recurring, weekly meeting with Malle.  
+2. Review and complete an Expectations and Development Plan which will be tailored to each GRA and shared with you prior to your start date.
 3. Make sure your [CITI Training](https://researchcompliance.asu.edu/human-subjects/training/) is up-to-date. Complete it if it is not.
