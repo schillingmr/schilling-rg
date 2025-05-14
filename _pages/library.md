@@ -28,6 +28,7 @@ This page has a list of books Malle has a physical copy of. Any book listed here
 |Multilevel Analysis: Techniques and Applications|Joop J Hox, Mirjam Moerbeek, and Rens van de Schoot|1|
 |Pedagogy of Freedom|Paulo Freire|1|
 |Pedagogy of the Oppressed|Paulo Freire|1|
+|Phenomenological Research Methods|Clark Moustakas|0|
 |Prairie Town: Redefining Rural Life in the Age of Globalization|Jacqueline Edmondson|1|
 |Qualitative Research and Case Study Applications in Education|Sharan B Merriam|1|
 |Race and Rurality: Considerations for Advancing Higher Education Equity|Tyler Hallmark, Sonja Ardoin, Darris R. Means|1|
