@@ -7,7 +7,7 @@ Any book listed here are ones I have physical copies of in my office and you are
 NOTE: some of these books are also available as an e-book through [ASU Library](https://lib.asu.edu/) if you prefer e-book or if a copy of one of my books is not available
 
 | Title | Author | Available | Total Copies | E-Book Availability |
-|:--------|:-------:|--------:|
+|:--------|:-------:|--------:|--------:|--------:|
 |APA Publication Manual (7th ed)||1|1||
 |Appalachian Reckoning|Anthony Harkins and Meredith McCarroll|1|1||
 |Black, Brown, Bruised: How Racialized STEM Education Stifles Innovation|Ebony O McGee|1|1||
