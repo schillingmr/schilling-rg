@@ -3,7 +3,7 @@ permalink: /library/
 title: "Malle's Book Library"
 author_profile: true
 ---
-This page has a list of books Malle has a physical copy of. Any book listed here you are welcome to "check out" but please make sure to return them when you're done **:)**
+This page has a list of books Malle has a physical copy of (note some of these books are available as an e-book through [ASU Library](https://lib.asu.edu/). Any book listed here you are welcome to "check out" but please make sure to return them when you're done **:)**
 
 | Title | Author | Available |
 |:--------|:-------:|--------:|
