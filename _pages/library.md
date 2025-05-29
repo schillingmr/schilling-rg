@@ -14,15 +14,18 @@ This page has a list of books Malle has a physical copy of. Any book listed here
 |College Aspirations and Access in Working-Class Rural, Communities|Sonja Ardoin|1|
 |Communities of Practice: Learning, Meaning, and Identity|Etienne Wenger|1|
 |Community-Based Research: Teaching for Community Impact|Mary Beckman, Joyce F. Long|1|
+|Completing Your Qualitative Dissertation: A Road Map From Beginning to End|Linda Dale Bloomberg|1|
 |Connecting Research and Practice for Educational Improvement|Bronwyn Bevan and William R Penuel|1|
 |Critical rural theory: Structure, space, culture|Alexander R Thomas, Brian M Lowe, Gregory M Fulkerson, and Polly J Smith|1|
 |Design for Belonging: How to Build Inclusion and Collaboration in Your Communities|Susie Wise|1|
 |Discovering Statistics Using IBM SPSS Statistics|Andy Field|1|
 |Discovering Statistics Using R|Andy Field|1|
+|Doing Educational Research in Rural Settings: Methodological issues, international perspectives and practical solutions|Simone White and Michael Corbett|1|
 |Doing Qualitative Research in Education Settings|J Amos Hatch|1|
 |Emergent Strategy|adrienne maree brown|1|
 |Envisioning Public Scholarship for Our Time: Models for Higher Education Researchers|Adrianna J. Kezar, Yianna Drivalas, Joseph A. Kitchen|1|
 |How to Write A Lot: A Practical Guide to Productive Academic Writing|Paul J. Silvia|1|
+|Interviewing as Qualitative Research: A Guide for Researchers in Education and The Social Sciences|Irving Seidman|1|
 |Latin* Students in Engineering|Lara Perez-Felkner, Sarah L Rodriguez, and Ciera Fluker|1|
 |Midwest Futures|Phil Christman|1|
 |Multilevel Analysis: Techniques and Applications|Joop J Hox, Mirjam Moerbeek, and Rens van de Schoot|1|
