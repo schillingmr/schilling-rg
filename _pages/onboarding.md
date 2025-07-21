@@ -16,13 +16,13 @@ Use this page to locate what you should do to acquant yourself with Schilling Re
 
 ## **For Adivsees**
 **To Do Every AY**
-1. Complete an [Individual Development Plan (IDP)](https://docs.google.com/document/d/10H6KeR3W_oNycgeoGkz0QZbW9cUxJ5j487ZjktIxWbs/edit?usp=sharing).
+1. Complete an [Individual Development Plan (IDP)](https://docs.google.com/document/d/1gr-A5_40tGyHHtqfoiS-0SmhuBy0hbFnwKzvamITjgU/edit?usp=sharing).
 2. Complete a [Mentoring Plan](https://docs.google.com/document/d/1lVPOhaGQ7zV01xwUOo_bu2AJRiZPzDBlRiUjcAO7XMQ/edit?usp=sharing).
 3. Make sure your [CITI Training](https://researchcompliance.asu.edu/human-subjects/training/) is up-to-date. Complete it if it is not. 
 
 **To Do Every Term**
 1. Schedule a recurring, weekly meeting with Malle. 
-2. Revisit and update IDP and Mentoring Plan as needed. 
+2. Revisit and update IDP Semester Goals and Mentoring Plan as needed. 
 
 ## **For GRAs - To Do Every Term**
 1. Schedule a recurring, weekly meeting with Malle.  
