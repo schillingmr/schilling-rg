@@ -11,7 +11,7 @@ Readings can generally be located in the SRG Zotero. Depending on your interests
 Aside from these lists of readings, here are some journals that I recommend paying attention to:
 1. [Journal for Engineering Education (JEE)](https://onlinelibrary-wiley-com.ezproxy1.lib.asu.edu/journal/21689830)
 2. [Studies in Engineering Education (SEE)](https://seejournal.org/)
-3. [Journal of Pre-College Engineering Education Research](https://docs.lib.purdue.edu/jpeer/)
+3. [Journal of Pre-College Engineering Education Research (J-PEER)](https://docs.lib.purdue.edu/jpeer/)
 4. [Engineering Studies](https://www-tandfonline-com.ezproxy1.lib.asu.edu/journals/test20)
 5. [The Rural Educator](https://scholarsjunction.msstate.edu/ruraleducator/)
 6. [Journal of Research in Rural Education](https://jrre.psu.edu/)
