@@ -18,7 +18,7 @@ Use this page to locate what you should do to acquant yourself with Schilling Re
 **To Do Every AY**
 1. Complete an [Individual Development Plan (IDP)](https://docs.google.com/document/d/1gr-A5_40tGyHHtqfoiS-0SmhuBy0hbFnwKzvamITjgU/edit?usp=sharing).
 2. Complete a [Mentoring Plan](https://docs.google.com/document/d/1lVPOhaGQ7zV01xwUOo_bu2AJRiZPzDBlRiUjcAO7XMQ/edit?usp=sharing).
-3. Make sure your [CITI Training](https://researchcompliance.asu.edu/human-subjects/training/) (IRB - Social and Behavioral Research) is up-to-date. Complete it if it is not. 
+3. Make sure your [CITI Training](https://researchcompliance.asu.edu/human-subjects/training/) (IRB - Social and Behavioral Research and others like RCR for Graduate Students and Post-docs) is up-to-date. Complete it if it is not. 
 
 **To Do Every Term**
 1. Schedule a recurring, weekly meeting with Malle. 
@@ -27,4 +27,4 @@ Use this page to locate what you should do to acquant yourself with Schilling Re
 ## **For GRAs - To Do Every Term**
 1. Schedule a recurring, weekly meeting with Malle.  
 2. Review and complete an Expectations and Development Plan which will be tailored to each GRA and shared with you prior to your start date.
-3. Make sure your [CITI Training](https://researchcompliance.asu.edu/human-subjects/training/) (IRB - Social and Behavioral Research) is up-to-date. Complete it if it is not.
+3. Make sure your [CITI Training](https://researchcompliance.asu.edu/human-subjects/training/) (IRB - Social and Behavioral Research and others like RCR for Graduate Students and Post-docs) is up-to-date. Complete it if it is not.
